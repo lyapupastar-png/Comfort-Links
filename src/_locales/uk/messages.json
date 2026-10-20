@@ -1,0 +1,183 @@
+{
+  "extDesc": {
+    "message": "Нова вкладка з ярликами, які можна складати в теки, як застосунки на телефоні."
+  },
+  "newTabTitle": {
+    "message": "Нова вкладка"
+  },
+  "open": {
+    "message": "Відкрити"
+  },
+  "openNewTab": {
+    "message": "Відкрити в новій вкладці"
+  },
+  "addShortcut": {
+    "message": "Додати ярлик"
+  },
+  "editShortcut": {
+    "message": "Змінити ярлик"
+  },
+  "remove": {
+    "message": "Видалити"
+  },
+  "editLayout": {
+    "message": "Змінити"
+  },
+  "done": {
+    "message": "Готово"
+  },
+  "rename": {
+    "message": "Перейменувати"
+  },
+  "ungroup": {
+    "message": "Винести ярлики"
+  },
+  "deleteFolder": {
+    "message": "Видалити теку"
+  },
+  "deleteFolderQuestion": {
+    "message": "Видалити теку «$NAME$»?",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "deleteWithContents": {
+    "message": "Видалити з ярликами"
+  },
+  "keepShortcuts": {
+    "message": "Залишити ярлики"
+  },
+  "cancel": {
+    "message": "Скасувати"
+  },
+  "save": {
+    "message": "Зберегти"
+  },
+  "fieldTitle": {
+    "message": "Назва"
+  },
+  "fieldUrl": {
+    "message": "Адреса"
+  },
+  "urlInvalid": {
+    "message": "Введіть правильну адресу сайту"
+  },
+  "folderDefault": {
+    "message": "Тека"
+  },
+  "folderName": {
+    "message": "Назва теки"
+  },
+  "pageLabel": {
+    "message": "Сторінка $N$",
+    "placeholders": {
+      "n": {
+        "content": "$1"
+      }
+    }
+  },
+  "syncQuota": {
+    "message": "Забагато ярликів для синхронізації з обліковим записом Mozilla. Вони збережені на цьому комп’ютері."
+  },
+  "syncError": {
+    "message": "Не вдалося синхронізувати з обліковим записом Mozilla. Ярлики збережені на цьому комп’ютері."
+  },
+  "menuAddPage": {
+    "message": "Додати сторінку в Comfort Links"
+  },
+  "menuAddLink": {
+    "message": "Додати посилання в Comfort Links"
+  },
+  "settings": {
+    "message": "Налаштування"
+  },
+  "smartRecent": {
+    "message": "Нещодавні"
+  },
+  "smartFrequent": {
+    "message": "Часто відвідувані"
+  },
+  "showRecent": {
+    "message": "Показувати теку «Нещодавні»"
+  },
+  "showFrequent": {
+    "message": "Показувати теку «Часто відвідувані»"
+  },
+  "settingIcons": {
+    "message": "Завантажувати іконки сайтів (Google, DuckDuckGo)"
+  },
+  "iconsNeedAccess": {
+    "message": "Firefox не надав доступ до сервісів іконок: частина іконок може не завантажитися."
+  },
+  "grantAccess": {
+    "message": "Дозволити"
+  },
+  "pinToHome": {
+    "message": "Додати на головний екран"
+  },
+  "historyDenied": {
+    "message": "Без доступу до історії теку «Нещодавні» показати неможливо."
+  },
+  "smartEmpty": {
+    "message": "Поки порожньо — відкрийте кілька сайтів."
+  },
+  "wallpaper": {
+    "message": "Тло"
+  },
+  "chooseWallpaper": {
+    "message": "Вибрати тло…"
+  },
+  "wallCatFirefox": {
+    "message": "Firefox"
+  },
+  "wallCatColors": {
+    "message": "Кольори"
+  },
+  "wallCatAbstract": {
+    "message": "Абстракції"
+  },
+  "wallCatCelestial": {
+    "message": "Небесні"
+  },
+  "wallCatPhotos": {
+    "message": "Фотографії"
+  },
+  "wallCustom": {
+    "message": "Своє"
+  },
+  "wallUpload": {
+    "message": "Завантажити зображення"
+  },
+  "wallColor": {
+    "message": "Свій колір"
+  },
+  "wallReset": {
+    "message": "Тло за замовчуванням"
+  },
+  "wallTooBig": {
+    "message": "Файл більший за 20 МБ."
+  },
+  "wallNotImage": {
+    "message": "Це не зображення."
+  },
+  "wallLoadError": {
+    "message": "Не вдалося завантажити тла. Перевірте з’єднання."
+  },
+  "wallBy": {
+    "message": "Фото:"
+  },
+  "wallOn": {
+    "message": "на"
+  },
+  "wallLocalNote": {
+    "message": "Власне зображення зберігається лише на цьому комп’ютері й не синхронізується."
+  },
+  "wallpaperShort": {
+    "message": "Тло…"
+  },
+  "defaultView": {
+    "message": "Вигляд за замовчуванням"
+  }
+}

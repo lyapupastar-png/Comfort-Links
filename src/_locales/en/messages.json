@@ -1,0 +1,183 @@
+{
+  "extDesc": {
+    "message": "New tab page with shortcuts you can group into folders, like app icons on a phone."
+  },
+  "newTabTitle": {
+    "message": "New Tab"
+  },
+  "open": {
+    "message": "Open"
+  },
+  "openNewTab": {
+    "message": "Open in new tab"
+  },
+  "addShortcut": {
+    "message": "Add shortcut"
+  },
+  "editShortcut": {
+    "message": "Edit shortcut"
+  },
+  "remove": {
+    "message": "Remove"
+  },
+  "editLayout": {
+    "message": "Edit"
+  },
+  "done": {
+    "message": "Done"
+  },
+  "rename": {
+    "message": "Rename"
+  },
+  "ungroup": {
+    "message": "Move shortcuts out"
+  },
+  "deleteFolder": {
+    "message": "Delete folder"
+  },
+  "deleteFolderQuestion": {
+    "message": "Delete folder “$NAME$”?",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "deleteWithContents": {
+    "message": "Delete with shortcuts"
+  },
+  "keepShortcuts": {
+    "message": "Keep shortcuts"
+  },
+  "cancel": {
+    "message": "Cancel"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "fieldTitle": {
+    "message": "Name"
+  },
+  "fieldUrl": {
+    "message": "URL"
+  },
+  "urlInvalid": {
+    "message": "Enter a valid web address"
+  },
+  "folderDefault": {
+    "message": "Folder"
+  },
+  "folderName": {
+    "message": "Folder name"
+  },
+  "pageLabel": {
+    "message": "Page $N$",
+    "placeholders": {
+      "n": {
+        "content": "$1"
+      }
+    }
+  },
+  "syncQuota": {
+    "message": "Too many shortcuts to sync with your Mozilla account. They are kept on this computer."
+  },
+  "syncError": {
+    "message": "Sync with your Mozilla account failed. Shortcuts are kept on this computer."
+  },
+  "menuAddPage": {
+    "message": "Add page to Comfort Links"
+  },
+  "menuAddLink": {
+    "message": "Add link to Comfort Links"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "smartRecent": {
+    "message": "Recent"
+  },
+  "smartFrequent": {
+    "message": "Most visited"
+  },
+  "showRecent": {
+    "message": "Show “Recent” folder"
+  },
+  "showFrequent": {
+    "message": "Show “Most visited” folder"
+  },
+  "settingIcons": {
+    "message": "Load site icons (Google, DuckDuckGo)"
+  },
+  "iconsNeedAccess": {
+    "message": "Firefox has not allowed access to the icon services: some icons may be missing."
+  },
+  "grantAccess": {
+    "message": "Allow"
+  },
+  "pinToHome": {
+    "message": "Add to home screen"
+  },
+  "historyDenied": {
+    "message": "Without access to history the “Recent” folder cannot be shown."
+  },
+  "smartEmpty": {
+    "message": "Nothing here yet — open a few sites."
+  },
+  "wallpaper": {
+    "message": "Background"
+  },
+  "chooseWallpaper": {
+    "message": "Choose background…"
+  },
+  "wallCatFirefox": {
+    "message": "Firefox"
+  },
+  "wallCatColors": {
+    "message": "Colors"
+  },
+  "wallCatAbstract": {
+    "message": "Abstract"
+  },
+  "wallCatCelestial": {
+    "message": "Celestial"
+  },
+  "wallCatPhotos": {
+    "message": "Photographs"
+  },
+  "wallCustom": {
+    "message": "Custom"
+  },
+  "wallUpload": {
+    "message": "Upload image"
+  },
+  "wallColor": {
+    "message": "Custom color"
+  },
+  "wallReset": {
+    "message": "Default background"
+  },
+  "wallTooBig": {
+    "message": "The file is larger than 20 MB."
+  },
+  "wallNotImage": {
+    "message": "This file is not an image."
+  },
+  "wallLoadError": {
+    "message": "Could not load backgrounds. Check your connection."
+  },
+  "wallBy": {
+    "message": "Photo by"
+  },
+  "wallOn": {
+    "message": "on"
+  },
+  "wallLocalNote": {
+    "message": "Your own image stays on this computer and is not synced."
+  },
+  "wallpaperShort": {
+    "message": "Background…"
+  },
+  "defaultView": {
+    "message": "Default view"
+  }
+}

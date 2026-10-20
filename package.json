@@ -1,0 +1,21 @@
+{
+  "name": "comfort-links",
+  "version": "0.1.0",
+  "description": "Firefox new tab page with shortcuts grouped into folders like phone app icons",
+  "license": "GPL-3.0-only",
+  "author": "SPYder4",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "unit": "node --test test/unit/*.test.mjs",
+    "lint": "web-ext lint --source-dir src",
+    "e2e": "node test/e2e.mjs",
+    "test": "node --test test/unit/*.test.mjs && node test/e2e.mjs",
+    "pack": "node scripts/pack.mjs"
+  },
+  "devDependencies": {
+    "geckodriver": "^7.0.0",
+    "selenium-webdriver": "^4.46.0",
+    "web-ext": "^10.7.0"
+  }
+}

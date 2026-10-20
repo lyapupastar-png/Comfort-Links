@@ -1,0 +1,183 @@
+{
+  "extDesc": {
+    "message": "Новая вкладка с ярлыками, которые можно складывать в папки, как приложения на телефоне."
+  },
+  "newTabTitle": {
+    "message": "Новая вкладка"
+  },
+  "open": {
+    "message": "Открыть"
+  },
+  "openNewTab": {
+    "message": "Открыть в новой вкладке"
+  },
+  "addShortcut": {
+    "message": "Добавить ярлык"
+  },
+  "editShortcut": {
+    "message": "Изменить ярлык"
+  },
+  "remove": {
+    "message": "Удалить"
+  },
+  "editLayout": {
+    "message": "Изменить"
+  },
+  "done": {
+    "message": "Готово"
+  },
+  "rename": {
+    "message": "Переименовать"
+  },
+  "ungroup": {
+    "message": "Вынести ярлыки"
+  },
+  "deleteFolder": {
+    "message": "Удалить папку"
+  },
+  "deleteFolderQuestion": {
+    "message": "Удалить папку «$NAME$»?",
+    "placeholders": {
+      "name": {
+        "content": "$1"
+      }
+    }
+  },
+  "deleteWithContents": {
+    "message": "Удалить с ярлыками"
+  },
+  "keepShortcuts": {
+    "message": "Оставить ярлыки"
+  },
+  "cancel": {
+    "message": "Отмена"
+  },
+  "save": {
+    "message": "Сохранить"
+  },
+  "fieldTitle": {
+    "message": "Название"
+  },
+  "fieldUrl": {
+    "message": "Адрес"
+  },
+  "urlInvalid": {
+    "message": "Введите правильный адрес сайта"
+  },
+  "folderDefault": {
+    "message": "Папка"
+  },
+  "folderName": {
+    "message": "Название папки"
+  },
+  "pageLabel": {
+    "message": "Страница $N$",
+    "placeholders": {
+      "n": {
+        "content": "$1"
+      }
+    }
+  },
+  "syncQuota": {
+    "message": "Слишком много ярлыков для синхронизации с аккаунтом Mozilla. Они сохранены на этом компьютере."
+  },
+  "syncError": {
+    "message": "Не удалось синхронизировать с аккаунтом Mozilla. Ярлыки сохранены на этом компьютере."
+  },
+  "menuAddPage": {
+    "message": "Добавить страницу в Comfort Links"
+  },
+  "menuAddLink": {
+    "message": "Добавить ссылку в Comfort Links"
+  },
+  "settings": {
+    "message": "Настройки"
+  },
+  "smartRecent": {
+    "message": "Недавние"
+  },
+  "smartFrequent": {
+    "message": "Часто посещаемые"
+  },
+  "showRecent": {
+    "message": "Показывать папку «Недавние»"
+  },
+  "showFrequent": {
+    "message": "Показывать папку «Часто посещаемые»"
+  },
+  "settingIcons": {
+    "message": "Загружать иконки сайтов (Google, DuckDuckGo)"
+  },
+  "iconsNeedAccess": {
+    "message": "Firefox не дал доступ к сервисам иконок: часть иконок может не загрузиться."
+  },
+  "grantAccess": {
+    "message": "Разрешить"
+  },
+  "pinToHome": {
+    "message": "Добавить на главный экран"
+  },
+  "historyDenied": {
+    "message": "Без доступа к истории папку «Недавние» показать нельзя."
+  },
+  "smartEmpty": {
+    "message": "Пока пусто — откройте несколько сайтов."
+  },
+  "wallpaper": {
+    "message": "Фон"
+  },
+  "chooseWallpaper": {
+    "message": "Выбрать фон…"
+  },
+  "wallCatFirefox": {
+    "message": "Firefox"
+  },
+  "wallCatColors": {
+    "message": "Цвета"
+  },
+  "wallCatAbstract": {
+    "message": "Абстракции"
+  },
+  "wallCatCelestial": {
+    "message": "Небесные"
+  },
+  "wallCatPhotos": {
+    "message": "Фотографии"
+  },
+  "wallCustom": {
+    "message": "Своё"
+  },
+  "wallUpload": {
+    "message": "Загрузить изображение"
+  },
+  "wallColor": {
+    "message": "Свой цвет"
+  },
+  "wallReset": {
+    "message": "Фон по умолчанию"
+  },
+  "wallTooBig": {
+    "message": "Файл больше 20 МБ."
+  },
+  "wallNotImage": {
+    "message": "Это не изображение."
+  },
+  "wallLoadError": {
+    "message": "Не удалось загрузить фоны. Проверьте подключение."
+  },
+  "wallBy": {
+    "message": "Фото:"
+  },
+  "wallOn": {
+    "message": "на"
+  },
+  "wallLocalNote": {
+    "message": "Своё изображение хранится только на этом компьютере и не синхронизируется."
+  },
+  "wallpaperShort": {
+    "message": "Фон…"
+  },
+  "defaultView": {
+    "message": "Вид по умолчанию"
+  }
+}
